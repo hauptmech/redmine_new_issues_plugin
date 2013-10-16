@@ -1,0 +1,5 @@
+= redmine_new_issues_plugin
+
+This plugin creates a more consistent interface for users (especially new ones)
+by removing the 'New Issue' tab and replacing it with a 'New Issue' button on
+the Issues page.
